@@ -1,0 +1,15 @@
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\bin\Debug\net6.0\Vending_Machince.exe
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\bin\Debug\net6.0\Vending_Machince.deps.json
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\bin\Debug\net6.0\Vending_Machince.runtimeconfig.json
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\bin\Debug\net6.0\Vending_Machince.dll
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\bin\Debug\net6.0\Vending_Machince.pdb
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.csproj.AssemblyReference.cache
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.AssemblyInfoInputs.cache
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.AssemblyInfo.cs
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.csproj.CoreCompileInputs.cache
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.dll
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\refint\Vending_Machince.dll
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.pdb
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\Vending_Machince.genruntimeconfig.cache
+C:\Users\BUSSYADEX\source\repos\Vending_Machince\obj\Debug\net6.0\ref\Vending_Machince.dll
